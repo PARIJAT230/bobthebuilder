@@ -1,0 +1,30 @@
+body
+{
+	background-image: url("build6.jpg");
+	background-repeat: no-repeat;
+	background-image: cover;
+	background-size: 1600px 850px;
+
+}
+.abc
+{
+    float: left;
+	border: 5px solid black;
+	padding: 20px;
+	margin-top: 180px;
+	margin-left: 100px;
+	
+}
+.abcd
+{
+	float:right;
+	border: 5px solid black;
+	padding: 20px;
+	margin-top: 170px;
+	margin-right: 100px;
+}
+.l
+{
+	margin-top: 300px;
+	margin-left: 700px;
+}

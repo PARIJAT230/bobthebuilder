@@ -1,0 +1,147 @@
+
+
+
+.fa-shopping-cart{
+	margin-top:20px;
+}
+.fa-desktop{
+	margin-top: 20px;
+}
+.fa-lock{
+	margin-top: 20px;
+}
+.portfolio{
+	height: 750px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+.portfolio h1 {
+	font-size: 50px;
+	font-weight: bold;
+}
+.card{
+	margin-top: 40px;
+
+}
+.footer{
+	height: 50px;
+
+}
+.footer h6{
+	line-height: 50px;
+
+}
+body
+{
+	background-image: url("build4.jpg");
+	background-repeat: no-repeat;
+	background-image: cover;
+	background-size: 1500px 900px;
+
+}
+.abc
+{
+    float: left;
+	border: 5px solid black;
+	padding: 20px;
+	margin-top: 50px;
+	margin-left: 200px;
+	
+}
+.abcd
+{
+	float:right;
+	border: 5px solid white;
+	padding: 20px;
+	margin-top: 50px;
+	margin-right: 200px;
+}
+
+}
+
+.j
+{
+	margin-top: 400px;
+	margin-left:  280px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.hhhh
+{
+
+	float: right;
+	border: 5px solid black;
+	padding: 20px;
+	margin-top: 65px;
+	margin-right:200px;
+	padding-bottom: 2px;
+
+	
+}
+.oo
+{
+	background-color: darkorange;
+
+}
+.fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.fa-soundcloud {
+  background: #ff5500;
+  color: white;
+  }
+  .fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+
+

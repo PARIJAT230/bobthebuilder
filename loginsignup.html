@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>login</title>
+	<link rel="stylesheet" type="text/css" href="loginsignup.css">
+    
+    
+        <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body >
+   <div >
+        <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+            <div class="container">
+                <a href=""class="navbar-brand text-warning font-weight-bold"> BOB THE BUILDERS</a>
+
+
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsenavbar">
+                    <span  class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse text-center" id="collapsenavbar">
+
+
+                <ul class="navbar-nav ml-auto">
+                    <li class ="nav-item">
+                    <a href="index.html" class="nav-link text-warning"> HOME</a>
+                </li>  
+
+               
+                
+                
+                <li class ="nav-item">
+                    <a href="contact.html" class="nav-link text-warning"> CONTACT </a>
+                </li>   
+                 <li class ="nav-item">
+                    <a href="map.html" class="nav-link text-warning"> MAP </a>
+                </li>   
+                  <li class ="nav-item">
+                    <a href="loginsignup.html" class="nav-link text-warning"> LOGIN/SIGNUP</a>
+                </li>   
+                  
+              
+                  
+            </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+	<div class="abc"> 
+        <h3 class="text-dark">LOGIN</h3>
+        <form  action="validation.php" method="post"> 
+            Username:  
+            <input type="email" required name="username" placeholder = "Email"
+            value=""> 
+            <br><br> 
+            Password:  
+            <input type="password" required="" name="password" placeholder = "Password"
+            value=""> 
+            <br><br> 
+            <input type="submit" value="Submit"> 
+            <input type="reset" value="Reset">
+        </form> 
+	</div>
+    <div class="abcd">
+    <h3 class="text-dark">SIGNUP</h3> 
+        <form action="registration.php" method="post"> 
+            Email Id:  
+            <input type="email"  required name="username" placeholder = "Email"
+            value=""> 
+            <br><br> 
+            Password:  
+            <input type="password" required name="password" placeholder = "Password"
+            value=""> 
+            <br><br> 
+            <input type="submit" value="Submit"> 
+            
+            <input type="reset" value="Reset">
+        </form> 
+    </div>
+
+</body>
+</html>
